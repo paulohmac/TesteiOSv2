@@ -1,0 +1,6 @@
+framework module Pods_Paulo_Teste {
+  umbrella header "Pods-Paulo_Teste-umbrella.h"
+
+  export *
+  module * { export * }
+}
